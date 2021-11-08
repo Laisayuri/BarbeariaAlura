@@ -117,3 +117,15 @@ input padrão {
 .checkbox {
     margin: 20px 0;
 }
+
+p {
+    color: blue;
+}
+
+p.paragrafo {
+    color: red;
+}
+
+.paragrafo {
+    color: purple;
+}
