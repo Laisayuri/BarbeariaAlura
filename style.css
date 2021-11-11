@@ -192,6 +192,12 @@ td, th {
     margin: 0 auto;
 }
 
+.lista-beneficios {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
 .imagem-beneficios {
     width: 60%;
 }
