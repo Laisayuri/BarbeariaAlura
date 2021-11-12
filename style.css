@@ -152,10 +152,6 @@ td, th {
     padding: 8px 15px;
 }
 
-#td-colspan {
-    text-align: center
-}
-
 /* css da página inicial */
 .banner {
     width:100%;
@@ -198,20 +194,20 @@ td, th {
     background: linear-gradient(#FEFEFE, #888888);
 }
 
-.mapa p {
-    margin: 0 0 2em;
-    text-align: center;
-}
-
 .mapa-conteudo {
     width: 940px;
     margin: 0 auto;
 }
 
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
 .beneficios {
     padding: 3em 0;
     background: #888888;
-  }
+}
 
 .conteudo-beneficios {
     width: 640px;
