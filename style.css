@@ -100,6 +100,7 @@ main {
 
 form {
     margin: 40px 0;
+    margin-left: 150px;
 }
 
 form label, form legend {
@@ -139,6 +140,7 @@ form label, form legend {
 
 table {
     margin: 20px 0 40px;
+    margin-left: 150px;
 }
 
 thead {
